@@ -15,3 +15,4 @@ const items = [1,[2,[3,[2,3, [66,1],4,10,39]]]]
 const newItems = _.flattenDeep(items)
 
 console.log(newItems)
+console.log('hiahhjsjasjsaehe')
